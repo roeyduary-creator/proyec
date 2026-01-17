@@ -2,11 +2,17 @@ export interface Question {
   id: number;
   specialty: string;
   year: number;
-  question: string;
-  options: string[];
-  correctAnswer: string;
-  chapter: string;
+  tema: string; // Anteriormente 'chapter'
   subtopic?: string;
+  pregunta: string; // Anteriormente 'question'
+  opciones: {
+    a: string;
+    b: string;
+    c: string;
+    d: string;
+    e?: string;
+  };
+  respuesta: string; // Anteriormente 'correctAnswer' (solo la letra)
 }
 
 export interface ChartStat {
