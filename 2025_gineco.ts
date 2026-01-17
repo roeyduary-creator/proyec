@@ -33,7 +33,7 @@ export const DATA_GINOBS_2025: Question[] = [
     id: 33,
     specialty: "Gineco-Obstetricia",
     year: 2025,
-    tema: "Williams Gin - Cap 29: Lesiones pre invasoras",
+    tema: "Williams Gin - Cap 30: Cáncer cervicouterino",
     pregunta: "¿Cuál de los siguientes virus se detecta a menudo junto con una prueba de papanicolaou para aumentar la sensibilidad en la detección de cáncer de cuello uterino?",
     opciones: {
       a: "el virus del papiloma humano",
@@ -47,7 +47,7 @@ export const DATA_GINOBS_2025: Question[] = [
     id: 34,
     specialty: "Gineco-Obstetricia",
     year: 2025,
-    tema: "Williams Gin - Cap 29: Lesiones pre invasoras",
+    tema: "Williams Gin - Cap 30: Cáncer cervicouterino",
     pregunta: "¿Cuál de los siguientes tipos de VPH se asocia más fuürlemente con el cáncer de cuello uterino?",
     opciones: {
       a: "VPH 11",
@@ -300,14 +300,14 @@ export const DATA_GINOBS_2025: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2025,
     tema: "Williams Gin - Cap 30: Cáncer cervicouterino",
-    pregunta: "En el cáncer de cuello uterino el estadio IIB se caracteriza por infiltración a:",
+    pregunta: "En el cáncer de cuello uterino el estadio IIIB se caracteriza por infiltración a:",
     opciones: {
       a: "Parametrios",
       b: "Pared pélvica",
       c: "Tercio superior de vagina",
       d: "Tercio inferior de vagina"
     },
-    respuesta: "a"
+    respuesta: "B"
   },
   {
     id: 53,

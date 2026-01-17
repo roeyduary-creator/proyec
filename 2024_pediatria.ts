@@ -6,12 +6,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Parte II: Crecimiento y desarrollo",
-    pregunta: "Sube gradas, frases 3 palabras, ayuda a desvestirse. Edad:",
+    pregunta: "Durante la consulta de seguimiento, Damián corretea por el consultorio, sube las gradas de a uno en uno, garabatea círculos, utiliza frases de 3 palabras y ayuda a desvestirse. Sus hitos de desarrollo corresponden a:",
     opciones: {
-      a: "36m",
-      b: "16m",
-      c: "18m",
-      d: "24m"
+      a: "36 meses",
+      b: "16 meses",
+      c: "18 meses",
+      d: "24 meses"
     },
     respuesta: "d"
   },
@@ -20,12 +20,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 197: Prácticas de vacunación",
-    pregunta: "Edad mínima vacuna varicela:",
+    pregunta: "La edad mínima de vacunación para la varicela es de:",
     opciones: {
-      a: "6m",
-      b: "12m",
-      c: "18m",
-      d: "24m"
+      a: "6 meses",
+      b: "12 meses",
+      c: "18 meses",
+      d: "24 meses"
     },
     respuesta: "b"
   },
@@ -34,12 +34,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 113: El recién nacido",
-    pregunta: "Bacteria patógena cordón umbilical:",
+    pregunta: "La bacteria patógena más frecuente que coloniza el cordón umbilical es:",
     opciones: {
-      a: "E. coli",
-      b: "Neisseria",
-      c: "S. pneumoniae",
-      d: "S. aureus"
+      a: "Escherichia coli",
+      b: "Neisseria meningitidis",
+      c: "Streptococcus pneumoniae",
+      d: "Staphylococcus aureus"
     },
     respuesta: "d"
   },
@@ -48,12 +48,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Manual de Atención Neonatal",
-    pregunta: "Contraindicación lactancia:",
+    pregunta: "Entre las enfermedades maternas que contraindican la lactancia están las infecciones por:",
     opciones: {
-      a: "HTLV 1 y 2",
-      b: "EBV",
-      c: "Mastitis S. aureus",
-      d: "EGB"
+      a: "Virus linfotrópico T humano tipos 1 y 2",
+      b: "Virus Epstein Barr",
+      c: "Mastitis por Staphylococcus aureus",
+      d: "Estreptococos del grupo B"
     },
     respuesta: "a"
   },
@@ -62,12 +62,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 57: Nutrición",
-    pregunta: "Zinc es:",
+    pregunta: "En cuanto al zinc como micronutriente podemos afirmar:",
     opciones: {
-      a: "8 mg/día",
-      b: "Solo con hierro",
-      c: "Catalizador enzimas y crecimiento lineal",
-      d: "En cítricos"
+      a: "La dosis recomendada en niños de 1 a 3 años es de 8 mg/día",
+      b: "Los suplementos de zinc se pueden administrar en multivitaminas con hierro y otros micronutrientes",
+      c: "Es esencial para el adecuado crecimiento lineal y catalizador de enzimas específicas",
+      d: "Está presente en cítricos, vegetales de color y aceites vegetales"
     },
     respuesta: "c"
   },
@@ -76,7 +76,7 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "PAI - Programa Ampliado de Inmunizaciones",
-    pregunta: "Hepatitis A en Paraguay a los:",
+    pregunta: "Según el Esquema Nacional de Vacunas vigente en el Paraguay, la Hepatitis A se aplica a los:",
     opciones: {
       a: "12 meses",
       b: "15 meses",
@@ -90,12 +90,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 113: El recién nacido",
-    pregunta: "Piel gelatinosa y translúcida en RN:",
+    pregunta: "Usted está evaluando a un recién nacido en la sala de partos y se percata que su piel es casi gelatinosa y translúcida, esto se debe a que:",
     opciones: {
-      a: "Prematuro",
-      b: "Frío",
-      c: "Prematuro extremo",
-      d: "Cesárea"
+      a: "El recién nacido es prematuro",
+      b: "El recién nacido se ha enfriado en la sala de partos",
+      c: "El recién nacido es prematuro extremo",
+      d: "El recién nacido ha nacido por cesárea"
     },
     respuesta: "c"
   },
@@ -104,12 +104,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Parte II: Crecimiento y desarrollo",
-    pregunta: "Obedece orden de una acción sin gestos a los:",
+    pregunta: "¿A qué edad los niños pueden obedecer a una orden de una sola acción sin que medien los gestos?",
     opciones: {
-      a: "12m",
-      b: "24m",
-      c: "10m",
-      d: "36m"
+      a: "12 meses",
+      b: "24 meses",
+      c: "10 meses",
+      d: "36 meses"
     },
     respuesta: "b"
   },
@@ -118,12 +118,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 113: El recién nacido",
-    pregunta: "NO es fisiológico en RN:",
+    pregunta: "De las siguientes situaciones consideradas fisiológicas o normales en los recién nacidos, indique la que no corresponde:",
     opciones: {
-      a: "Hipo",
-      b: "Estornudos indican resfriado",
-      c: "Cólico",
-      d: "Leche de brujas"
+      a: "El hipo no requiere tratamiento",
+      b: "Los estornudos indican un resfriado",
+      c: "El cólico es evidenciado por llanto súbito y cesa con la expulsión de gases",
+      d: "Tiene hipertrofia mamaria con secreción láctea llamada “leche de brujas”"
     },
     respuesta: "b"
   },
@@ -132,7 +132,7 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 88: Shock",
-    pregunta: "Cierre conducto arterioso dependiente causa shock:",
+    pregunta: "El cierre del conducto arterioso en un niño con flujo sanguíneo sistémico dependiente del conducto puede ser causa de shock de tipo:",
     opciones: {
       a: "Distributivo",
       b: "Obstructivo",
@@ -146,12 +146,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 553: ITU",
-    pregunta: "NO es criterio de pielonefritis:",
+    pregunta: "Paciente escolar de 4 años con diagnóstico de pielonefritis aguda, se encuentra internada en sala de escolares. Indique cuál de los siguientes no corresponde a un criterio para el diagnóstico:",
     opciones: {
-      a: "Linfocitosis",
-      b: "RFA elevados",
-      c: "Riñones grandes en eco",
-      d: "Sedimento alterado"
+      a: "Leucocitosis importante a expensas de linfocitosis",
+      b: "Reactantes de fase aguda elevados",
+      c: "Riñones aumentados de tamaño por ecografía abdominal",
+      d: "Orina simple y sedimentos alterados"
     },
     respuesta: "a"
   },
@@ -160,12 +160,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 474: Las anemias",
-    pregunta: "Anemia en niños 12-14 años Hb menor a:",
+    pregunta: "El punto de corte de hemoglobina para definir la anemia en niños es de:",
     opciones: {
-      a: "9",
-      b: "10",
-      c: "11",
-      d: "12"
+      a: "9 g/dl para niños entre 6-24 meses",
+      b: "10 g/dl para niños de 36-59 meses",
+      c: "11 g/dl para niños de 5-11 años",
+      d: "12 g/dl para los niños de 12-14 años"
     },
     respuesta: "d"
   },
@@ -174,12 +174,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Protocolo COVID-19 Pediatría",
-    pregunta: "SARS-CoV-2 (+), dificultad respiratoria. Manejo:",
+    pregunta: "Llega a urgencias paciente de 5 años con antecedente de 2 días de evolución de fiebre hasta 39°C, dificultad respiratoria progresiva y dolor de pecho. La madre refiere síntomas respiratorios hace 1 semana. Se le realiza hisopado siendo SARS-COV 2 (+). ¿Cuál es el manejo apropiado?",
     opciones: {
-      a: "Internación",
-      b: "Repetir PCR",
-      c: "Expansión 20cc",
-      d: "Aislamiento casa"
+      a: "Internación en hospital de referencia",
+      b: "Realizar PCR para COVID",
+      c: "Realizar expansión con suero salino 0,9% a 20 cc/kg",
+      d: "Aislamiento en su domicilio con monitorización cada 24hs"
     },
     respuesta: "a"
   },
@@ -188,11 +188,11 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 412: Obstrucción vías superiores",
-    pregunta: "Crupp hospitalizar si:",
+    pregunta: "Los niños con Crup deben ser hospitalizados cuando se produzca cualquiera de las siguientes circunstancias:",
     opciones: {
-      a: "Crepitantes",
-      b: "Sibilancias",
-      c: "Congestión",
+      a: "Subcrepitantes bibasales",
+      b: "Sibilancias inspiratorias",
+      c: "Congestión nasal",
       d: "Estridor en reposo"
     },
     respuesta: "d"
@@ -202,12 +202,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 183: Lupus",
-    pregunta: "Exantema fotosensible, hepatoesplenomegalia:",
+    pregunta: "Una paciente de 14 años acude a la consulta por astenia, anorexia, cefalea, pérdida de peso y fiebre. Al examen físico usted resalta de positivo un exantema fotosensible en la cara y hepatoesplenomegalia, resto del examen sin particularidad. Su impresión diagnóstica será:",
     opciones: {
-      a: "ARJ",
-      b: "Kawasaki",
+      a: "Artritis reumatoidea juvenil",
+      b: "Enfermedad de Kawasaki",
       c: "Fiebre reumática",
-      d: "Lupus"
+      d: "Lupus eritematoso sistémico"
     },
     respuesta: "d"
   },
@@ -216,9 +216,9 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 364: Trastornos de malabsorción",
-    pregunta: "Enteropatía proteínas más grave:",
+    pregunta: "Indique cuál de las siguientes es forma más grave de presentación de la enteropatía inducida por proteínas alimentarias:",
     opciones: {
-      a: "Intolerancia leche",
+      a: "Intolerancia a la leche de vaca",
       b: "Enfermedad celíaca",
       c: "Esofagitis eosinofílica",
       d: "Dermatitis perioral"
@@ -230,12 +230,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 493: Policitemia",
-    pregunta: "NO asocia poliglobulia:",
+    pregunta: "¿Cuál de los siguientes hallazgos no se asocia a la poliglobulia?",
     opciones: {
       a: "Hiperviscosidad",
-      b: "RCIU",
-      c: "Transfusión gemelar",
-      d: "Graves neonatal"
+      b: "Retraso del crecimiento intrauterino",
+      c: "Síndrome de transfusión intergemelar",
+      d: "Enfermedad de Graves neonatal"
     },
     respuesta: "a"
   },
@@ -244,12 +244,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Manual de Atención Neonatal",
-    pregunta: "Estimulación táctil recomendada:",
+    pregunta: "Nace Jaime, de una madre primípara, gestante de pretérmino por fecha de última menstruación y ecografía del primer trimestre. El recién nacido no respira ni llora. ¿Cuál de las siguientes maniobras son recomendadas para la estimulación táctil en un recién nacido apneico?",
     opciones: {
-      a: "Palmadas espalda",
-      b: "Golpecitos plantas pies",
-      c: "Exprimir costillas",
-      d: "Forzar extremidades"
+      a: "Palmadas en la espalda",
+      b: "Palmadas o golpecitos en las plantas de los pies",
+      c: "Exprimir la parrilla costal",
+      d: "Forzar las extremidades sobre el abdomen"
     },
     respuesta: "b"
   },
@@ -258,12 +258,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 428: Neumonía",
-    pregunta: "Gérmenes neumonía escolar:",
+    pregunta: "Los gérmenes más frecuentes en la neumonía bacteriana en el paciente escolar son:",
     opciones: {
-      a: "S. pneumoniae, S. aureus, Virus",
-      b: "S. pneumoniae, EGB, S. aureus",
-      c: "Influenza, Micoplasma",
-      d: "Haemophilus b"
+      a: "Streptococcus pneumoniae, Staphylococcus aureus, Virus respiratorios",
+      b: "Streptococcus pneumoniae, Estreptococos del grupo B, Staphylococcus aureus",
+      c: "Influenza, Micoplasma, Estreptococo del grupo A",
+      d: "Estreptococo del grupo A, Haemophilus influenzae de tipo b"
     },
     respuesta: "b"
   },
@@ -272,12 +272,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Manual de Manejo Clínico del Dengue",
-    pregunta: "Fiebre, vómitos, dolor abdominal, Hb 15, Hto 40, plaq 100.000:",
+    pregunta: "Un niño de 2 años remitido del Hospital de Borja por sospecha de Dengue. Tiene historia de fiebre de 3 días de evolución, vómitos en varias oportunidades y dolor abdominal persistente. Trae hemograma con Hb 15 Hto 40 % GB 4900/mm³ Neutrófilos 60 % plaquetas 100000/mm³. Antígeno NS1 negativo. Usted cataloga el cuadro como:",
     opciones: {
-      a: "Dengue con signos alarma",
-      b: "No es dengue",
-      c: "Dengue sin signos",
-      d: "Dengue grave"
+      a: "Dengue con signos de alarma, lo internaría y le realizaría plan de hidratación",
+      b: "Descarta el diagnóstico de dengue porque tiene NS1 negativo",
+      c: "Dengue sin signos de alarma y lo enviaría a su domicilio con indicaciones",
+      d: "Dengue grave y lo pasaría a terapia intensiva pediátrica inmediatamente"
     },
     respuesta: "a"
   },
@@ -286,12 +286,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 537: Glomerulonefritis",
-    pregunta: "Encefalopatía hipertensiva en:",
+    pregunta: "La encefalopatía hipertensiva se observa en niños afectados de:",
     opciones: {
-      a: "ITU",
-      b: "Nefrótico",
+      a: "Cistouretritis recidivante",
+      b: "Síndrome nefrótico",
       c: "Glomerulonefritis aguda",
-      d: "Tumor"
+      d: "Tumor intracraneal"
     },
     respuesta: "c"
   },
@@ -300,12 +300,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 57: Nutrición",
-    pregunta: "Desnutrición edematosa:",
+    pregunta: "Son características clínicas de la Desnutrición aguda edematosa:",
     opciones: {
-      a: "Placas pigmentadas descamación",
-      b: "Nerviosos",
-      c: "Ojos hundidos",
-      d: "Pelo seco"
+      a: "Cambios cutáneos, como placas pigmentadas con gran descamación",
+      b: "Los niños están con frecuencia nerviosos e irritables",
+      c: "Los ojos se hunden debido a la pérdida de la grasa retroorbitaria",
+      d: "Presenta el pelo quebradizo y seco"
     },
     respuesta: "a"
   },
@@ -314,11 +314,11 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 428: Neumonía",
-    pregunta: "Fiebre y tos 8 días, FR 60, crepitantes:",
+    pregunta: "Paciente de 8 años de edad con historia de fiebre y tos de 8 días de evolución, dificultad respiratoria. Al examen físico aleteo nasal, frecuencia respiratoria 60 por min, auscultación pulmonar con crepitantes. Usted plantea el diagnóstico de:",
     opciones: {
       a: "Neumotórax",
-      b: "Derrame",
-      c: "Neumonía adquirida comunidad",
+      b: "Neumonía complicada con derrame",
+      c: "Neumonía adquirida en la comunidad",
       d: "Bronconeumonía"
     },
     respuesta: "c"
@@ -328,12 +328,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Manual de Atención Neonatal",
-    pregunta: "RN 32 semanas, vidrio esmerilado y broncograma:",
+    pregunta: "Un recién nacido de 32 semanas de edad gestacional presenta dificultad respiratoria, que inicia 2 horas después de nacido y que va empeorando al pasar de las horas. Se solicita radiografía de tórax que muestra pulmones radiopacos en patrón de vidrio esmerilado, con broncograma aéreo. El tratamiento es:",
     opciones: {
-      a: "Corticoides IV",
-      b: "Soporte + surfactante",
-      c: "Antibióticos",
-      d: "Broncodilatadores"
+      a: "Administración de corticoides endovenoso",
+      b: "Soporte respiratorio más surfactante endotraqueal",
+      c: "Antibióticos endovenosos y soporte ventilatorio",
+      d: "Broncodilatadores inhalados y corticoides sistémicos"
     },
     respuesta: "b"
   },
@@ -342,12 +342,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 77: Intoxicaciones",
-    pregunta: "NO corresponde descontaminación gastrointestinal:",
+    pregunta: "La situación en la que no corresponde la descontaminación gastrointestinal en una intoxicación es:",
     opciones: {
-      a: "Sustancia recuperable",
-      b: "Menos de 2h",
-      c: "Hipoperistaltismo dentro de las 10h",
-      d: "Sin riesgo aspiración"
+      a: "Intoxicación por una sustancia recuperable",
+      b: "Han transcurrido menos de 2 horas tras la ingesta",
+      c: "En situaciones de hipoperistaltismo, dentro de las 10 horas de la ingesta",
+      d: "No hay riesgo de aspiración o se solventa mediante el aislamiento de la vía aérea"
     },
     respuesta: "c"
   },
@@ -356,12 +356,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 355: Estenosis pilórica",
-    pregunta: "Lactante 1 mes, vómitos lácteos, cámara gástrica dilatada:",
+    pregunta: "Acude a la consulta en urgencias un lactante de 1 mes, sexo masculino, único hijo de la familia, por cuadro de vómitos de 3 días de evolución en varias ocasiones al día de contenido lácteo, acompañado de distensión abdominal. En la radiografía de abdomen de pie visualiza una cámara gástrica muy dilatada. Usted sospecha:",
     opciones: {
-      a: "Hirschsprung",
-      b: "RGE",
-      c: "GEA",
-      d: "Estenosis hipertrófica píloro"
+      a: "Enfermedad de Hirschsprung",
+      b: "Reflujo gastroesofágico",
+      c: "Gastroenteritis aguda",
+      d: "Estenosis hipertrófica del píloro"
     },
     respuesta: "d"
   },
@@ -370,7 +370,7 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 82: Niño politraumatizado",
-    pregunta: "Glasgow 8/15 es TCE:",
+    pregunta: "Marcos de 8 años acude a urgencias por un golpe en la cabeza tras caída de su bicicleta, usted constata Glasgow de 8/15, entonces, lo clasifica como Traumatismo craneoencefálico:",
     opciones: {
       a: "Agudo",
       b: "Leve",
@@ -384,12 +384,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 81: Emergencias y reanimación",
-    pregunta: "RCP calidad:",
+    pregunta: "La reanimación cardio pulmonar de calidad, se refiere a:",
     opciones: {
-      a: "80-100/min",
-      b: "30:2 con dos reanimadores",
-      c: "Minimizar interrupciones",
-      d: "12-20 vent"
+      a: "Realizar compresiones torácicas 80 a 100 por minuto",
+      b: "Relación ventilación compresión entre dos reanimadores de 30:2",
+      c: "Minimizar las interrupciones entre las compresiones",
+      d: "Realizar 12 a 20 ventilaciones por minuto con una vía aérea avanzada"
     },
     respuesta: "c"
   },
@@ -398,7 +398,7 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 77: Intoxicaciones",
-    pregunta: "Shock tras beber chocolatada (alergia leche):",
+    pregunta: "Un niño de 5 años con antecedente de alergia a la proteína de leche de vaca, ingresa a urgencias con rash generalizado, alteración del sensorio, hipotenso. Refiere que se encontraba en la escuela y le invitaron unos tragos de chocolatada. El manejo inmediato es:",
     opciones: {
       a: "Corticoides",
       b: "Adrenalina",
@@ -412,12 +412,12 @@ export const DATA_PEDIATRIA_2024: Question[] = [
     specialty: "Pediatría",
     year: 2024,
     tema: "Nelson - Cap 611: Crisis convulsivas",
-    pregunta: "Convulsión febril simple:",
+    pregunta: "Consulta a urgencias un lactante de 1 año, sexo femenino, por fiebre hasta 39° y convulsiones. Usted decide enviarlo a la casa luego de bajarle la fiebre por tratarse de una convulsión febril simple. ¿Cuál de las siguientes características se corresponde con el diagnóstico?",
     opciones: {
-      a: "Menor 15 min",
-      b: "Localizada",
-      c: "Secuelas",
-      d: "Recidiva 24h"
+      a: "Duración menor de 15 minutos",
+      b: "Convulsión localizada",
+      c: "Deja secuelas neurológicas",
+      d: "Recidiva en un periodo de 24 horas"
     },
     respuesta: "a"
   }

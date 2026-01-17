@@ -6,40 +6,40 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Código Rojo - Protocolo: Código Rojo Obstétrico (MSPBS)",
-    pregunta: "En el equipo de emergencias, Asistente 1 se encarga de:",
+    pregunta: "En la conformación del equipo de emergencias obstétricas, el que se encarga de las vías aéreas, ventilación, control de signos vitales y estado de conciencia, registrando esos datos en la Escala de Alerta Precoz es:",
     opciones: {
-      a: "Vías aéreas y signos vitales",
+      a: "Asistente 2",
       b: "Circulante",
-      c: "Medicación",
+      c: "Asistente 1",
       d: "Coordinador"
     },
-    respuesta: "a"
+    respuesta: "c"
   },
   {
     id: 152,
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Manual MSPBS - Cap 10: Hemorragias de la segunda mitad del embarazo",
-    pregunta: "Pérdidas rojas rutilantes, 33 semanas, indoloras:",
+    pregunta: "Usted tiene una paciente multípara gestante de 33 semanas con pérdidas rojas por vagina, roja rutilante, inicio insidioso, que no se acompaña de dolor y no se constatan contracciones uterinas. Su diagnóstico probable es:",
     opciones: {
-      a: "Rotura",
-      b: "DPPNI",
-      c: "Placenta previa",
-      d: "Aborto"
+      a: "Rotura uterina",
+      b: "Embarazo abdominal",
+      c: "Desprendimiento normoplacentario",
+      d: "Placenta previa"
     },
-    respuesta: "c"
+    respuesta: "d"
   },
   {
     id: 153,
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Manual MSPBS - Cap 11: Hemorragia posparto",
-    pregunta: "Dosis misoprostol atonía uterina:",
+    pregunta: "En el protocolo de manejo del tratamiento de atonía-hipotonía uterina la dosis recomendada de misoprostol es:",
     opciones: {
-      a: "200 IV",
-      b: "800 Sublingual",
-      c: "1200 Rectal",
-      d: "0,2 IM"
+      a: "200 µg por vía endovenosa en una sola dosis",
+      b: "800 µg por vía sublingual",
+      c: "1200 µg por vía rectal",
+      d: "0,2 mg por vía intramuscular"
     },
     respuesta: "b"
   },
@@ -48,12 +48,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 1: Generalidades",
-    pregunta: "Mortalidad neonatal se mide:",
+    pregunta: "La tasa de mortalidad neonatal es el número de muertes neonatales:",
     opciones: {
-      a: "Por 1.000 NV",
-      b: "Por 100 NV",
-      c: "Por 10.000 NV",
-      d: "Por 100.000 NV"
+      a: "Por 1.000 nacidos vivos",
+      b: "Por 100 nacidos vivos",
+      c: "Por 10.000 nacidos vivos menores de 1 año",
+      d: "Por 100.000 nacidos vivos, incluidos los nacidos vivos y los mortinatos"
     },
     respuesta: "a"
   },
@@ -62,25 +62,25 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 5: Implantación y desarrollo placentario",
-    pregunta: "Sangre vuelve al feto por:",
+    pregunta: "Una vez realizados los intercambios a nivel del espacio intervelloso, la sangre vuelve al feto a través de:",
     opciones: {
-      a: "Arterias umbilicales",
-      b: "Vena umbilical única",
-      c: "Arterias espiraladas",
-      d: "Vellosidades"
+      a: "Las arterias umbilicales",
+      b: "Las arterias intervellosas",
+      c: "La vena umbilical única",
+      d: "Las arterias espiraladas"
     },
-    respuesta: "b"
+    respuesta: "c"
   },
   {
     id: 156,
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 9: Atención prenatal",
-    pregunta: "Índice de eficacia atención prenatal:",
+    pregunta: "El sistema utilizado con frecuencia para medir la eficacia de la atención prenatal es el índice de:",
     opciones: {
       a: "Kessner",
       b: "Pearl",
-      c: "Bracken",
+      c: "Bracken y Belanger",
       d: "Haert"
     },
     respuesta: "a"
@@ -90,12 +90,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 20: Enfermedad trofoblástica",
-    pregunta: "Embarazo triploide:",
+    pregunta: "Las características del embarazo triploide son:",
     opciones: {
-      a: "69 cromosomas",
-      b: "46 cromosomas",
-      c: "Gen materno solo",
-      d: "92 cromosomas"
+      a: "Poseen 3 conjuntos haploides de 69 cromosomas",
+      b: "Poseen 3 conjuntos haploides de 46 cromosomas",
+      c: "Los 3 conjuntos haploides provienen del gen paterno",
+      d: "Tienen dos conjuntos haploides y 92 cromosomas"
     },
     respuesta: "a"
   },
@@ -104,12 +104,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 14: Diagnóstico prenatal",
-    pregunta: "Alfalfetoproteína baja en suero materno por:",
+    pregunta: "La concentración baja de alfafetoproteína en suero materno en una mujer embarazada se ve en:",
     opciones: {
       a: "Muerte fetal",
       b: "Obesidad",
       c: "Onfalocele",
-      d: "Teratoma"
+      d: "Teratoma sacrococcígeo"
     },
     respuesta: "b"
   },
@@ -118,12 +118,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 22: Trabajo de parto normal",
-    pregunta: "Estrecho superior, feto ubica cabeza en:",
+    pregunta: "En el estrecho superior el feto tiende a ubicar su cabeza:",
     opciones: {
-      a: "Oblicuo más favorable",
-      b: "Deflexión",
-      c: "Anteroposterior",
-      d: "Flexión"
+      a: "En el oblicuo más favorable",
+      b: "En deflexión lateral",
+      c: "En el diámetro anteroposterior",
+      d: "En completa flexión"
     },
     respuesta: "a"
   },
@@ -132,12 +132,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Manual MSPBS - Cap 9: Hemorragias 1ra mitad",
-    pregunta: "Control BHCG post mola cada:",
+    pregunta: "El control de BHCG (gonadotrofina coriónica humana) posterior a la evacuación de un embarazo molar debe realizarse cada:",
     opciones: {
-      a: "30 días por 6 meses",
-      b: "7 días",
-      c: "Anual",
-      d: "15 días"
+      a: "Treinta días por seis meses",
+      b: "Siete días por un mes",
+      c: "Un año por cinco años",
+      d: "Quince días por tres meses"
     },
     respuesta: "a"
   },
@@ -146,12 +146,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 7: Embriogénesis y desarrollo fetal",
-    pregunta: "Indispensable para maduración pulmonar:",
+    pregunta: "Para la maduración de los pulmones fetales es indispensable la producción de:",
     opciones: {
       a: "Proteína surfactante A",
-      b: "B",
-      c: "Prostaglandina",
-      d: "C15"
+      b: "Proteína surfactante B",
+      c: "Prostaglandina F2 alfa",
+      d: "Hormonas esteroideas C15"
     },
     respuesta: "a"
   },
@@ -160,12 +160,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 29: Parto vaginal quirúrgico",
-    pregunta: "Desgarro piel y músculos sin esfínter anal:",
+    pregunta: "Cuando usted percata de que su paciente en el post parto inmediato ha sufrido un desgarro que afectó la piel y los músculos perineales sin incluir el esfínter anal, el diagnóstico es desgarro de:",
     opciones: {
-      a: "1er grado",
-      b: "2do grado",
-      c: "3er grado",
-      d: "4to grado"
+      a: "Primer grado",
+      b: "Segundo grado",
+      c: "Tercer grado",
+      d: "Cuarto grado"
     },
     respuesta: "b"
   },
@@ -174,12 +174,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 27: Parto vaginal",
-    pregunta: "Fórceps de Elliot:",
+    pregunta: "Las características del fórceps de Elliot son:",
     opciones: {
-      a: "Rama corta",
-      b: "Seguro francés",
-      c: "Rama articulada fenestrada seguro inglés",
-      d: "Seguro deslizante"
+      a: "Curvatura pélvica corta en las ramas, ramas no articuladas y el asta frente a un seguro tipo francés con mango fino",
+      b: "Curvatura pélvica larga en las ramas fenestradas y el asta, frente a un seguro tipo americano con mango delgado y rama corta",
+      c: "Curvatura pélvica amplia en las ramas, con ramas articuladas, ramas fenestradas y el asta frente a un seguro tipo inglés",
+      d: "Curvatura pélvica mínima seguro deslizante, peso ligero"
     },
     respuesta: "c"
   },
@@ -188,7 +188,7 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 37: Complicaciones puerperales",
-    pregunta: "Alérgica tipo I betalactámicos puerperal:",
+    pregunta: "La alternativa terapéutica antibiótica en pacientes con reacción alérgica de tipo I a betalactámicos para el tratamiento de infecciones puerperales es:",
     opciones: {
       a: "Vancomicina",
       b: "Ertapenem",
@@ -202,12 +202,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 37: Complicaciones puerperales",
-    pregunta: "Entuertos persistentes en:",
+    pregunta: "En el puerperio inmediato, los entuertos son persistentes en las siguientes situaciones:",
     opciones: {
-      a: "Gemelares",
-      b: "Nulíparas",
-      c: "Adolescentes",
-      d: "Sanas"
+      a: "En mujeres con embarazos dobles",
+      b: "Sólo en mujeres nulíparas",
+      c: "En mujeres con infecciones uterinas puerperales",
+      d: "Habitualmente en mujeres adolescentes"
     },
     respuesta: "a"
   },
@@ -216,12 +216,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 11: Dolor pélvico",
-    pregunta: "Doppler en congestión pélvica:",
+    pregunta: "Los hallazgos ecográficos con Doppler aplicado en un síndrome de congestión pélvica incluyen:",
     opciones: {
-      a: "Vena ovárica 6mm tortuosa",
-      b: "Flujo 5mm/s",
-      c: "Vena arqueada",
-      d: "Vena contraída"
+      a: "Vena ovárica tortuosa y dilatada diámetro de 6 mm",
+      b: "Flujo sanguíneo mayor 5 mm/segundos",
+      c: "Vena ovárica arqueada y contraída",
+      d: "Venas duplicadas próximas a su nacimiento"
     },
     respuesta: "a"
   },
@@ -230,12 +230,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 23: Incontinencia urinaria",
-    pregunta: "Fármacos que relajan la vejiga:",
+    pregunta: "Los fármacos que contribuyen a la incontinencia urinaria, relajando la vejiga son:",
     opciones: {
-      a: "Diuréticos",
-      b: "iCOX2",
+      a: "Diuréticos ahorradores de potasio",
+      b: "Inhibidores de COX 2",
       c: "Tiazolidinedionas",
-      d: "Narcóticos y opiáceos"
+      d: "Narcóticos, opiáceos"
     },
     respuesta: "d"
   },
@@ -244,12 +244,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Anexo: Aspectos quirúrgicos",
-    pregunta: "Sellador de fibrina aerosol:",
+    pregunta: "Los productos hemostáticos tópicos que se pueden colocar en sitios hemorrágicos donde la coagulación es imposible o ineficaz, corresponden a selladores de fibrina:",
     opciones: {
-      a: "Trombina bovina",
-      b: "Gelatina",
-      c: "Trombina humana aerosol",
-      d: "Metilcelulosa"
+      a: "Trombina bovina + gelatina",
+      b: "Gelatina porcina",
+      c: "Trombina humana en aerosol",
+      d: "Metilcelulosa oxidada regenerada"
     },
     respuesta: "c"
   },
@@ -258,12 +258,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 33: Cáncer de endometrio",
-    pregunta: "Patrón endometrial heterogéneo sugiere:",
+    pregunta: "En una ecografía transvaginal, si se encuentran cambios estructurales anormales en el endometrio, caracterizado por un patrón estructural heterogéneo se sugiere:",
     opciones: {
       a: "Cáncer endometrial",
-      b: "Pólipo",
+      b: "Pólipos endometriales",
       c: "Hiperplasia",
-      d: "Atrofia"
+      d: "Atrofias"
     },
     respuesta: "a"
   },
@@ -272,12 +272,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Obs - Cap 2: Anatomía materna",
-    pregunta: "Aponeurosis perineal superficial:",
+    pregunta: "En la vulva la aponeurosis perineal superficial se denomina:",
     opciones: {
-      a: "Cloquet",
-      b: "Colles",
-      c: "Venus",
-      d: "Hart"
+      a: "Fascia de Cloquet",
+      b: "Fascia de Colles",
+      c: "Monte de Venus",
+      d: "Línea de Hart"
     },
     respuesta: "b"
   },
@@ -286,12 +286,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 15: Endocrinología",
-    pregunta: "Estradiol genera en cérvix:",
+    pregunta: "En respuesta a la producción folicular del estradiol, el cuello uterino puede generar:",
     opciones: {
-      a: "Moco espeso",
-      b: "Sequedad",
-      c: "Moco abundante poco espeso",
-      d: "Sangrado"
+      a: "Escaso moco muy espeso",
+      b: "Sequedad del canal con estrías de colágeno",
+      c: "Abundante moco poco espeso",
+      d: "Ocasionalmente secreción sanguinolenta"
     },
     respuesta: "c"
   },
@@ -300,12 +300,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 29: Lesiones pre invasoras",
-    pregunta: "Progresión CIN 3 a invasión:",
+    pregunta: "En la historia natural de la neoplasia intraepitelial cervicouterina, el porcentaje de progresión del CIN 3 a invasión corresponde a:",
     opciones: {
-      a: "0,5%",
+      a: "Sólo el 0,5%",
       b: "1%",
       c: "5%",
-      d: "> 12%"
+      d: "Mayor a 12%"
     },
     respuesta: "d"
   },
@@ -314,12 +314,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 5: Anticonceptivos",
-    pregunta: "Suspender AOC antes de cirugía mayor:",
+    pregunta: "En una paciente usuaria de anticonceptivos orales combinados que deberá someterse a una cirugía mayor programada, para evitar una trombosis venosa profunda deberá:",
     opciones: {
-      a: "No suspender",
-      b: "48 horas",
-      c: "6 semanas",
-      d: "Postoperatorio"
+      a: "No necesita suspender",
+      b: "Suspender 48 horas antes",
+      c: "Interrumpir 6 semanas antes de la cirugía",
+      d: "Suspender sólo en el postoperatorio inmediato"
     },
     respuesta: "c"
   },
@@ -328,12 +328,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 35: Cáncer de ovario",
-    pregunta: "Mittelschmerz:",
+    pregunta: "En la valoración clínica de la ovulación, otro factor que sugiere ovulación normal es el Mittelschmerz que se describe como:",
     opciones: {
-      a: "Dolor pélvico a mitad ciclo",
-      b: "Sangrado",
-      c: "Spotting",
-      d: "T° basal baja"
+      a: "Dolor pélvico a mitad del ciclo",
+      b: "Sangrado intermenstrual",
+      c: "Spotting premenstrual",
+      d: "Disminución de la temperatura basal"
     },
     respuesta: "a"
   },
@@ -341,13 +341,13 @@ export const DATA_GINOBS_2024: Question[] = [
     id: 175,
     specialty: "Gineco-Obstetricia",
     year: 2024,
-    tema: "Williams Obs - Cap 2: Anatomía materna",
-    pregunta: "Linfa vulva drena en:",
+    tema: "Williams Gin - Cap 2: Anatomía ginecológica",
+    pregunta: "La linfa de las estructuras de la vulva y el perineo, drenan en los grupos ganglionares:",
     opciones: {
       a: "Lumboaórticos",
       b: "Paraaórticos",
       c: "Inguinales",
-      d: "Pélvicos"
+      d: "Pélvicos profundos"
     },
     respuesta: "c"
   },
@@ -356,12 +356,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 3: Infecciones ginecológicas",
-    pregunta: "Referencia herpes genital:",
+    pregunta: "El método de referencia para el diagnóstico de herpes genital es:",
     opciones: {
-      a: "Cultivo",
-      b: "Frotis",
+      a: "Cultivo de tejido",
+      b: "Frotis de la zona afectada",
       c: "PCR",
-      d: "Elisa"
+      d: "Elisa en sangre"
     },
     respuesta: "a"
   },
@@ -370,26 +370,26 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 17: Síndrome de ovario poliquístico",
-    pregunta: "AMH indica folículos mejor que:",
+    pregunta: "En cuanto a la hormona antimülleriana se refiere, es correcto afirmar que:",
     opciones: {
-      a: "FSH e inhibina",
-      b: "Edad",
-      c: "LH",
-      d: "Progesterona"
+      a: "Es expresada por el feto, durante la diferenciación femenina",
+      b: "Se relaciona con el número de folículos primordiales ováricos de mejor manera que la FSH y la inhibina",
+      c: "La medición de su concentración debe realizarse únicamente en la segunda fase del ciclo",
+      d: "Los niveles de la hormona antimülleriana van aumentando durante toda la vida reproductiva"
     },
-    respuesta: "a"
+    respuesta: "b"
   },
   {
     id: 178,
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 17: Síndrome de ovario poliquístico",
-    pregunta: "SHBG en SOP:",
+    pregunta: "La concentración de la globulina transportadora de hormonas sexuales en el contexto de un Síndrome de Ovario Poliquístico se encuentra:",
     opciones: {
       a: "Aumentada",
       b: "Reducida",
-      c: "Igual",
-      d: "Variable"
+      c: "No sufre cambios en la concentración",
+      d: "Su concentración depende de la fase del ciclo"
     },
     respuesta: "b"
   },
@@ -398,12 +398,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 15: Endocrinología",
-    pregunta: "Desdoblamiento cadena lateral esteroides:",
+    pregunta: "El desdoblamiento de la cadena lateral de los esteroides, catalizado por enzimas esteroidógenas, corresponde a:",
     opciones: {
-      a: "Hidroxilo a cetona",
-      b: "Adición hidroxilo",
-      c: "Eliminación hidrógenos",
-      d: "Desmolasa"
+      a: "Conversión de grupo hidroxilo a cetonas",
+      b: "Adición de grupos hidroxilo",
+      c: "Eliminación de hidrógenos para crear o reducir un doble enlace",
+      d: "Reacción de desmolasa"
     },
     respuesta: "d"
   },
@@ -412,12 +412,12 @@ export const DATA_GINOBS_2024: Question[] = [
     specialty: "Gineco-Obstetricia",
     year: 2024,
     tema: "Williams Gin - Cap 10: Endometriosis",
-    pregunta: "Factor hístico endometrial:",
+    pregunta: "En la regulación de la función endometrial, el factor hístico corresponde a una proteína relacionada con la membrana que cumple la función de:",
     opciones: {
-      a: "Activa cascada coagulación",
-      b: "Baja plasmina",
-      c: "Baja metaloproteinasas",
-      d: "Sube degradación"
+      a: "Activar la cascada de coagulación al contacto con la sangre",
+      b: "Disminuir la conversión de plasminógeno a plasmina",
+      c: "Disminuir la concentración de las metaloproteinasas antes de la menstruación",
+      d: "Aumentar la actividad de degradación de las metaloproteinasas"
     },
     respuesta: "a"
   }

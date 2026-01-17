@@ -1,8 +1,12 @@
 import { Question } from './types';
 import { DATA_CIRUGIA_2023 } from './2023_cirugia';
 import { DATA_GINOBS_2023 } from './2023_gineco';
+import { DATA_PEDIATRIA_2023 } from './2023_pediatria';
+import { DATA_MEDINT_2023 } from './2023_interna';
 
 export const DATA_2023: Question[] = [
   ...DATA_CIRUGIA_2023,
   ...DATA_GINOBS_2023,
+  ...DATA_PEDIATRIA_2023,
+  ...DATA_MEDINT_2023,
 ];
